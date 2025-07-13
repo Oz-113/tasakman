@@ -1,5 +1,5 @@
 # Usage:
-tasakman add <description>
+tasakman add <task_description>
 
 tasakman list 
 
